@@ -25,5 +25,6 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 * [Butrii, Sergii](https://github.com/Sergiibut05)
 * [López González, José María](https://github.com/JoseMariaDev1)
 * [Romero Maldonado, Adrián ](https://github.com/roomeroo)
+  
 :star: Si te gusta este repo, dale una estrellita :wink:
 

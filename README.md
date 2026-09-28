@@ -9,6 +9,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 
 ## Alumnos
+* [Cordero Molina, Antonio](https://github.com/antcordero)
 * [Fernández Sepúlveda, Samuel](https://github.com/Ssamuelfernandez)
 * [Meléndez Loreto, Daniel](https://github.com/DanielML84)
 * [Hermoso Silva, Elena](https://github.com/elenahermososilva-cyber)

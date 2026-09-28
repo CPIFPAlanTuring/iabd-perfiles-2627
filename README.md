@@ -9,8 +9,8 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 
 ## Alumnos
+* [Fernández Sepúlveda, Samuel](https://github.com/Ssamuelfernandez)
 * [Meléndez Loreto, Daniel](https://github.com/DanielML84)
-
 
 :star: Si te gusta este repo, dale una estrellita :wink:
 

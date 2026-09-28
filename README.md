@@ -16,6 +16,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 * [Meléndez Loreto, Daniel](https://github.com/DanielML84)
 * [Hermoso Silva, Elena](https://github.com/elenahermososilva-cyber)
 * [Herranz Pascual, Lorena](https://github.com/HerranzP-Lorena)
+* [Redondo Camacho, Guillermo](https://github.com/guilleodev)
 * [Sánchez Lagos, Cristian](https://github.com/csanlag861-dev)
 * [Jiménez Muñoz, Álvaro](https://github.com/Almucero)
 * [Sánchez Ramírez, Gloria de las Nieves](https://github.com/GloriaNSR)

@@ -12,6 +12,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 * [Fernández Sepúlveda, Samuel](https://github.com/Ssamuelfernandez)
 * [Meléndez Loreto, Daniel](https://github.com/DanielML84)
 * [Hermoso Silva, Elena](https://github.com/elenahermososilva-cyber)
+* [Sánchez Lagos, Cristian](https://github.com/csanlag861-dev)
 
 :star: Si te gusta este repo, dale una estrellita :wink:
 

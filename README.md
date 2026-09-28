@@ -5,7 +5,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 ## Profesores
 
 * [Sánchez González, Luis José](https://github.com/LuisJoseSanchez)
-* [García Gómez, Jun Antonio](https://github.com/profemronda)
+* [García Gómez, Juan Antonio](https://github.com/juanarrow)
 
 
 ## Alumnos

@@ -9,7 +9,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 
 ## Alumnos
-* [Apellidos, Nombre]()
+* [Meléndez Loreto, Daniel](https://github.com/DanielML84)
 
 
 :star: Si te gusta este repo, dale una estrellita :wink:
